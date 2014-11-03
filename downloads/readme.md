@@ -8,5 +8,8 @@ The other libs are used for soap and eeml APIs as needed.
 
 These libs are generally installed by the following methods:
 
- cd <lib folder>
- python setup.py install
+```
+cd <lib folder>
+python setup.py install
+```
+
