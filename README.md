@@ -14,4 +14,6 @@ There is also a gateway device (like a raspberry pi) that has a Slice of Pi adap
 
 This code reads the data stream from all sensor board radios and sends it out on a tcp port; ideally to an instance of node-red for redirection to a charting application like Graphite, to a local data store, or to a remote data store like Xively, Thingspeak, data.sparkfun.com (phant).
 
+See the downloads directory for python modules that are required.
+
 Questions and feedback appreciated.
